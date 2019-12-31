@@ -8,13 +8,6 @@ sections:
   path: content/_index.md
   label: Home
 - type: directory
-  path: content/products
-  label: Products
-  create: all
-  match: "**/*"
-  templates:
-  - product
-- type: directory
   path: content/post
   label: Posts
   create: all

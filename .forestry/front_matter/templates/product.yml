@@ -41,5 +41,3 @@ fields:
   config:
     required: false
   label: Product URL
-pages:
-- content/products/draft1.md
